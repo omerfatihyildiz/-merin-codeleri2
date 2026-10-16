@@ -1,0 +1,10 @@
+C:\Users\BERKAY ÖMER\Downloads\ömerin vısual studio code leri\ömerin codeleri\uygulama-9\uygulama-9\bin\Debug\uygulama-9.exe.config
+C:\Users\BERKAY ÖMER\Downloads\ömerin vısual studio code leri\ömerin codeleri\uygulama-9\uygulama-9\bin\Debug\uygulama-9.exe
+C:\Users\BERKAY ÖMER\Downloads\ömerin vısual studio code leri\ömerin codeleri\uygulama-9\uygulama-9\bin\Debug\uygulama-9.pdb
+C:\Users\BERKAY ÖMER\Downloads\ömerin vısual studio code leri\ömerin codeleri\uygulama-9\uygulama-9\obj\Debug\uygulama-9.csproj.AssemblyReference.cache
+C:\Users\BERKAY ÖMER\Downloads\ömerin vısual studio code leri\ömerin codeleri\uygulama-9\uygulama-9\obj\Debug\uygulama_9.Form1.resources
+C:\Users\BERKAY ÖMER\Downloads\ömerin vısual studio code leri\ömerin codeleri\uygulama-9\uygulama-9\obj\Debug\uygulama_9.Properties.Resources.resources
+C:\Users\BERKAY ÖMER\Downloads\ömerin vısual studio code leri\ömerin codeleri\uygulama-9\uygulama-9\obj\Debug\uygulama-9.csproj.GenerateResource.cache
+C:\Users\BERKAY ÖMER\Downloads\ömerin vısual studio code leri\ömerin codeleri\uygulama-9\uygulama-9\obj\Debug\uygulama-9.csproj.CoreCompileInputs.cache
+C:\Users\BERKAY ÖMER\Downloads\ömerin vısual studio code leri\ömerin codeleri\uygulama-9\uygulama-9\obj\Debug\uygulama-9.exe
+C:\Users\BERKAY ÖMER\Downloads\ömerin vısual studio code leri\ömerin codeleri\uygulama-9\uygulama-9\obj\Debug\uygulama-9.pdb
